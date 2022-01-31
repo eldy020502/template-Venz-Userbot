@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "✨Kyy-Userbot✨",
+      "value": "✨Venz-Userbot✨",
       "required": false
     },
     "ALIVE_NAME": {
@@ -95,12 +95,12 @@
     },
      "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
+      "value": "https://telegra.ph/file/b4b0c2ad19e40f87cf98e.jpg",
       "required": false
     },
     "KYY_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
-      "value": "I'am Using Kyy-Userbot ✨",
+      "value": "I'am Using Venz-Userbot ✨",
       "required": false 
     },
     "S_PACK_NAME": {
