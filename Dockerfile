@@ -1,5 +1,5 @@
 # Using Python Slim-Buster
-FROM v-ex/venz-userbot:buster
+FROM v-ex/Venz-userbot:buster
 #━━━━━ Userbot Telegram ━━━━━
 #━━━━━ By v-ex-Userbot ━━━━━
 
