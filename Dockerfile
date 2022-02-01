@@ -1,7 +1,7 @@
 # Using Python Slim-Buster
-FROM v-ex/Venz-userbot:buster
+FROM kyyex/kyy-userbot:buster
 #━━━━━ Userbot Telegram ━━━━━
-#━━━━━ By v-ex-Userbot ━━━━━
+#━━━━━ By Kyy-Userbot ━━━━━
 
 RUN git clone -b Venz-Userbot https://github.com/eldy020502/Venz-Userbot /root/userbot
 RUN mkdir /root/userbot/.bin
